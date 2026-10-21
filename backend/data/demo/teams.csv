@@ -1,0 +1,15 @@
+id,name,short_name,competition_id,home_stadium
+MCI,Manchester City,Man City,EPL,Etihad Stadium
+ARS,Arsenal,Arsenal,EPL,Emirates Stadium
+LIV,Liverpool,Liverpool,EPL,Anfield
+CHE,Chelsea,Chelsea,EPL,Stamford Bridge
+TOT,Tottenham Hotspur,Spurs,EPL,Tottenham Hotspur Stadium
+AVL,Aston Villa,Aston Villa,EPL,Villa Park
+RMA,Real Madrid,Real Madrid,LALIGA,Santiago Bernabeu
+FCB,FC Barcelona,Barcelona,LALIGA,Camp Nou
+ATM,Atletico Madrid,Atlético,LALIGA,Metropolitano
+RSO,Real Sociedad,Real Sociedad,LALIGA,Anoeta
+BAY,Bayern Munich,Bayern,UCL,Allianz Arena
+PSG,Paris Saint-Germain,PSG,UCL,Parc des Princes
+INT,Inter Milan,Inter,UCL,San Siro
+BVB,Borussia Dortmund,Dortmund,UCL,Signal Iduna Park
